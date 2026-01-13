@@ -1,6 +1,6 @@
-
-file dari ahsan
-
+<<<<<<< HEAD
 Test dari branch Ahsan 
 perubahan hari
-
+=======
+file dari ahsan
+>>>>>>> ahsan
